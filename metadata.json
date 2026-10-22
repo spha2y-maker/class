@@ -1,0 +1,6 @@
+{
+  "name": "중3 국어 | 청중을 고려하여 자신 있게 말하기",
+  "description": "중학교 3학년 국어 4단원 '청중을 고려하여 자신 있게 말하기' 스마트 교육자료. 핵심 개념, 실전 체크리스트, 형성평가, 발표자 랜덤 뽑기.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
